@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sna991
+- 👋 Hi, I’m Syed 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science ML AI 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sna991@gmail.com
 
 <!---
